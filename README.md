@@ -212,35 +212,6 @@ Predictive-Sales-Forecasting/
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/predictive-sales-forecasting.git
-```
-
-Move into the project directory:
-
-```bash
-cd predictive-sales-forecasting
-```
-
-Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Project
-
-```bash
-python sales_forecasting.py
-```
-
----
 
 ## 📚 Key Learning Outcomes
 
